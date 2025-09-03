@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "065c2097c05acd98",
+    "type": "split",
+    "children": [
+      {
+        "id": "08dae2f831aa50b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f504070beaf2da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d925df52758dba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ce9d1861713b6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "591990a4ad145ffc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cb60daffc3fd300",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "260b93f1697fd8b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e43b966f9c58466f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de14ad95914471eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b752f7c03d23a01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "general Skills/Nice netcat....md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nice netcat..."
+            }
+          },
+          {
+            "id": "8927bd682a5ee02d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "general Skills/Nice netcat....md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nice netcat..."
+            }
+          },
+          {
+            "id": "be38595aa4d8cc9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4b65808e87566b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "general Skills/Nice netcat....md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nice netcat..."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "591990a4ad145ffc",
+  "lastOpenFiles": [
+    "picoCTF/Plantilla.md",
+    "picoCTF/01-General Skills",
+    "picoCTF/README.md",
+    "Untitled.md",
+    "picoCTF/01-General Skills/Nice netcat....md",
+    "picoCTF/01-General Skills/Warmed Up.md",
+    "picoCTF/01-General Skills/Glitch Cat.md",
+    "picoCTF/01-General Skills/plumbing.md",
+    "picoCTF/01-General Skills/Obedient Cat.md",
+    "picoCTF/01-General Skills/Bases.md",
+    "picoCTF/01-General Skills/First Grep.md",
+    "picoCTF/01-General Skills/2Warm.md",
+    "picoCTF/01-General Skills/Lets Warm Up.md",
+    "picoCTF"
+  ]
+}
