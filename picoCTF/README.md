@@ -4,3 +4,4 @@ Notas sobre los retos de hacking en la plataforma de picoCTF del semestre agosto
 
 -Eduar Heredia Landeros
 -eduar.heredialan@gmail.com
+-user picoCTF: eduar

@@ -14,6 +14,8 @@ letra = chr(numero_hex)
 
 print(f"El número {hex(numero_hex)} corresponde a la letra: '{letra}'")
 
-##Notas
+##Notas:
+Se usa la funcion de python "chr" para convertir el numero hexadecimal.
 
-##Referencias
+##Referencias:
+Observaciones hechas en clase.

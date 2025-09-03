@@ -9,6 +9,9 @@ Solucion 1:
 eduar-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 14291 | grep picoCTF
 picoCTF{digital_plumb3r_ea8bfec7}
 
-##Notas
+##Notas:
+Se utiliza el comado "nc" en linux para conectar a un puerto de un sitio web.
+Se aniade el coamdo "grep" para poder buscar la palabra refenciada.
 
-##Referencias
+##Referencias.
+Observaciones hechas en clase.

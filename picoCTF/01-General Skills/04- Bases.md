@@ -27,6 +27,8 @@ import base64
 base64.b64decode("bDNhcm5fdGgzX3IwcDM1").decode()
 'l3arn_th3_r0p35'
 
-##Notas
+##Notas:
+Con la importacion de la biblioteca de python "base64" se pude convertir una cadena de caracteres.
 
-##Referencias
+##Referencias:
+Observaciones hechas en clase.

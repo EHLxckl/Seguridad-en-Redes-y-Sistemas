@@ -20,6 +20,8 @@ Codigo en Python
 int (0x3D)
 61
 
-##Notas
+##Notas:
+Python puede combertir un numero hexadecimal a numerico con la funcion "int" 
 
-##Referencias
+##Referencias:
+Observaciones hechas en clase.

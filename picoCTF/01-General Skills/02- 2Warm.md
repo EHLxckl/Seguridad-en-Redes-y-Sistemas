@@ -17,6 +17,8 @@ def decimal_a_binario(numero):
         numero = numero // 2
     return binario
 
-##Notas
+##Notas:
+Se creo una funcion en python para clacular de base 10 a base 2.
 
 ##Referencias
+Observaciones hechas en clase.
