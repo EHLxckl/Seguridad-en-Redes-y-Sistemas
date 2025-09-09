@@ -1,10 +1,8 @@
 
-name Reto
+Descripcion:
 
-Descripcion del reto
+Solucion(s):
 
-Solucion(s)
+Notas:
 
-Notas sobre el reto
-
-Referencias
+Referencias:
