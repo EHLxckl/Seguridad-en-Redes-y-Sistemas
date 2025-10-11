@@ -1,0 +1,15 @@
+
+Descripcion:
+Cookie Monster has hidden his top-secret cookie recipe somewhere on his website. As an aspiring cookie detective, your mission is to uncover this delectable secret. Can you outsmart Cookie Monster and find the hidden recipe?
+
+Additional details will be available after launching your challenge instance.
+Solucion(s):
+http://verbal-sleep.picoctf.net:53830/
+
+picoCTF{c00k1e_m0nster_l0ves_c00kies_78B4C390}
+Notas:
+ingresa a la paguina, inspeciona la pagina, en la parte de aplicacion, ver las cookies.
+ingresa un usuario y contrasenia, en la parte de cookie se genera un codigo en base64.
+se copea y se pega en cyberChef. te da la flag.
+Referencias:
+https://www.youtube.com/watch?v=quOKTERxPJQ
